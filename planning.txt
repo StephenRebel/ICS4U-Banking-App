@@ -1,5 +1,8 @@
 Bank Account Assignment
 
+https://docs.google.com/presentation/d/19x6IraD5K2ne2WursaeUPyUXZUXAE7U_0-Y-hoYDmc4/edit?usp=sharing
+https://drive.google.com/file/d/1jsz2UA7xALc6G06qXAxBs1NqGM9nOEmD/view?usp=sharing
+
 Conception (Brainstorming) 
 Bank page, customer selection page/addition, manage personal accounts, manage account types, manage finances between accounts
 
