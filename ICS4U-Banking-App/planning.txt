@@ -1,0 +1,24 @@
+Bank Account Assignment
+
+https://docs.google.com/presentation/d/19x6IraD5K2ne2WursaeUPyUXZUXAE7U_0-Y-hoYDmc4/edit?usp=sharing
+https://drive.google.com/file/d/1jsz2UA7xALc6G06qXAxBs1NqGM9nOEmD/view?usp=sharing
+
+Conception (Brainstorming) 
+Bank page, customer selection page/addition, manage personal accounts, manage account types, manage finances between accounts
+
+Planning
+Project will be divided relatively evenly. Coding will be done in NetBeans and saved through GitHub, where our workload can be tracked.
+
+The app will start with a menu where the user can choose which account they want to login to, or create a new account. Once logged in, the user will be able to see their balance in both their savings and checking accounts. From each account, the user will be able to do their proper actions, such as withdrawing and depositing money. The user will also be able to transfer money from one account to another.
+
+Schedule:
+
+	Project start (Match 31st)
+	Planning phase (March 31st  - April 6th)
+	Build phase (April 7th - April 13th)
+	Review phase (April 14th - April 15th)
+	Project Close (April 15th)
+
+Implement and monitor
+
+Closing
