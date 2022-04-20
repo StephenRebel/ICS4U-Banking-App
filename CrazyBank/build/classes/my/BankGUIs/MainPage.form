@@ -74,7 +74,9 @@
     </Component>
     <Component class="javax.swing.JButton" name="accountButton1">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Danial McIntyre"/>
+        <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+          <Connection code="Main.account1.getName()" type="code"/>
+        </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="org.netbeans.modules.form.compat2.border.MatteColorBorderInfo">
             <MatteColorBorder/>
@@ -87,7 +89,9 @@
     </Component>
     <Component class="javax.swing.JButton" name="accountButton2">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Stephen Rebel"/>
+        <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+          <Connection code="Main.account2.getName()" type="code"/>
+        </Property>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="accountButton2ActionPerformed"/>
